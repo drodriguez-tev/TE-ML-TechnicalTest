@@ -1,0 +1,11 @@
+# DotEnv configuration
+.env
+
+# Pycharm
+.idea
+
+# VS Code
+.vscode/
+
+# py cache
+.__pycache__
